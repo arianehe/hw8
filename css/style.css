@@ -1,0 +1,19 @@
+#heading{
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
+#paintings, #userInfoTable, #formDataTable{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body{
+    font-family: 'Calibri', sans-serif;
+    font-size: 15px;
+}
+td{
+    border: 1px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
